@@ -6,7 +6,7 @@ Item 1: Create a branch off the remo call it A########_TechTest
 - Create a Pull request to merge this into master 
 
 
-This is a test 
+This is a test two newwwwww
 
 There is script file located in the "SQL Script", directory.
 Create a database and using SQL Management Console exedcute the script to populate the data.
